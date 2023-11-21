@@ -1,0 +1,41 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Environment variables
+.env
+
+# Build output
+build/
+
+# Coverage directory
+coverage/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Mac OS files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Compiled binary addons
+build/Release

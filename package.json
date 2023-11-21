@@ -1,0 +1,12 @@
+{
+  "name": "crypto-exp",
+  "version": "1.0.0",
+  "description": "Node.js implementation for cryptography experiments of Xidian University, but shit code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dimole",
+  "license": "MIT"
+}
